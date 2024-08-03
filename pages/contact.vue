@@ -9,18 +9,18 @@
 					contacts
 				</div>
 				<a
-					href="mailto:singhdharmvir81@gmail.com"
+					href="mailto:satyanaryana18369@gmail.com"
 					class="flex px-4 py-2 hover:text-white"
 				>
 					<Icon name="mdi:email" class="pr-2" size="24px" />
 					<p class="hidden md:block">me@letsbug.in</p>
 				</a>
 				<a
-					href="tel:+917559410568"
+					href="tel:+918790018369"
 					class="flex px-4 py-2 hover:text-white"
 				>
 					<Icon name="mdi:phone" class="pr-2" size="24px" />
-					<p class="hidden md:block">+917559410568</p>
+					<p class="hidden md:block">+918790018369</p>
 				</a>
 				<div
 					class="border-y border-border-color p-2 text-white hidden md:block"
@@ -211,17 +211,17 @@ export default {
 			externalLinks: [
 				{
 					name: "YouTube Channel",
-					to: "https://www.youtube.com/@_letsBug",
+					to: "https://www.youtube.com",
 					icon: "basil:youtube-solid",
 				},
 				{
 					name: "HackerRank",
-					to: "https://www.hackerrank.com/profile/singhdharmvir81",
+					to: "https://www.hackerrank.com/profile/satya_500apps",
 					icon: "cib:hackerrank",
 				},
 				{
 					name: "LeetCode",
-					to: "https://leetcode.com/Aniket-git-hub/",
+					to: "https://leetcode.com/u/bqEeaVc5WU/",
 					icon: "simple-icons:leetcode",
 				},
 			],
@@ -266,7 +266,7 @@ export default {
 							method: "POST",
 							headers: { "Content-Type": "application/json" },
 							body: JSON.stringify({
-								to: "singhdharmvir81@gmail.com",
+								to: "satyanaryana18369@gmail.com",
 								subject: "New feedback from " + this.name,
 								text: template,
 							}),

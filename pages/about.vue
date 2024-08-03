@@ -92,13 +92,13 @@ export default {
 	},
 	head() {
 		return {
-			title: "About Aniket | letsbug",
+			title: "About Satya",
 			meta: [
 				{
 					hid: "description",
 					name: "description",
 					content:
-						"know about aniket's education, experiences, skills and more...",
+						"know about Satya's education, experiences, skills and more...",
 				},
 			],
 		}

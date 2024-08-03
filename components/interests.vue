@@ -27,7 +27,14 @@
 						- **Cooking:** I enjoy experimenting with different
 						cuisines and creating delicious dishes from scratch.
 						It's a wonderful way to unwind and share good food with
-						loved ones. <br />
+						loved ones. 
+						
+						<br />
+						- **Outdoor Games:** I'm passionate about playing cricket
+						and kabaddi, both of which keep me active and competitive.
+						These sports not only challenge me physically but also 
+						foster teamwork and camaraderie. <br />
+
 
 						## Technology Enthusiast <br />
 						- **Open Source Contributions:** I actively contribute
@@ -98,6 +105,17 @@
 								>
 							</p>
 						</li>
+						<li>
+							<p>
+								<span>Outdoor Games:</span>
+								<span
+									>I'm passionate about playing cricket and kabaddi,
+									both of which keep me active and competitive. 
+									These sports not only challenge me physically 
+									but also foster teamwork and camaraderie..</span
+								>
+							</p>
+						</li>
 					</ul>
 					<h2
 						class="text-xl font-semibold border-b border-gray-600 pb-2"
@@ -137,7 +155,7 @@
 					<ul class="py-4 pl-4" style="list-style-type: disc">
 						<li>
 							<p>
-								<span>Reading Books And Research Papers:</span>
+								<span>Reading Mythological Books And Research Papers:</span>
 								<span
 									>I'm a lifelong learner and often enroll in
 									online courses to stay updated with the

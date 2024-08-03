@@ -34,15 +34,15 @@ export default {
 			externalLinks: [
 				{
 					name: "YouTube Channel",
-					to: "https://www.youtube.com/@_letsBug",
+					to: "",
 				},
 				{
 					name: "HackerRank",
-					to: "https://www.hackerrank.com/profile/singhdharmvir81",
+					to: "https://www.hackerrank.com",
 				},
 				{
 					name: "LeetCode",
-					to: "https://leetcode.com/Aniket-git-hub/",
+					to: "https://leetcode.com",
 				},
 			],
 		}

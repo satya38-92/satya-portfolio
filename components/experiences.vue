@@ -17,21 +17,16 @@
 							36</span
 						>
 
-						Backend Developer (Freelance), SFS Academy December 2023
-						- April 2024 <br />
-						• Enhanced platform security by 30% by developing a
-						secure authentication system with multi- factor
-						authentication. <br />
-						• Improved user accessibility by implementing student
-						login and registration processes. <br />
-						• Facilitated learning by creating a content management
-						system for viewing lecture videos and notes. <br />
-						• Streamlined operations by developing an admin
-						interface and appointment booking system integrated with
-						calendar functionalities. <br />
-						• Managed high user engagement by handling over 1,000
-						student registrations and 500 appointments within the
-						first quarter.
+						DEVELOPER <br />
+						• I specialize in back-end development, with a focus on API integrations across diverse projects. <br />
+						• My role includes designing and optimizing APIs to facilitate seamless connections between systems and services. <br />
+						• I have applied Vue.js and Nuxt.js in multiple projects to develop interactive, responsive user interfaces.. <br />
+						• By combining robust back-end skills with these front-end frameworks, I ensure holistic and effective solutions. <br />
+						• I prioritize the integration of APIs to enhance functionality and scalability in every project I undertake.<br />
+						• Utilizing Vue and Nuxt strengthens user experiences by delivering dynamic and efficient web applications. <br />
+						• My expertise lies in crafting cohesive systems that excel in performance and adaptability through strategic API implementations.
+
+
 					</p>
 				</article>
 				<div

@@ -115,7 +115,7 @@ const images = import.meta.globEager("../assets/*.png")
 export default {
 	head() {
 		return {
-			title: "Aniket's Project | letsbug",
+			title: "Satya's Project",
 			meta: [
 				{
 					hid: "description",
@@ -189,61 +189,8 @@ export default {
 						"Vercel",
 						"Javascript",
 					],
-					sourceCode: "https://github.com/Aniket-git-hub/portfolio",
-					projectLink: "https://aniket.letsbug.in",
-				},
-				{
-					name: "32 Beads Game",
-					description: "This is a online multiplayer board game.",
-					img: images["../assets/dashboard_1.png"].default,
-					technologies: [
-						"React",
-						"ChakraUI",
-						"MongoDB",
-						"Nodejs",
-						"Expressjs",
-						"Vercel",
-						"Render",
-						"Git",
-						"Github",
-						"Javascript",
-					],
-					sourceCode: "https://github.com/Aniket-git-hub/32si",
-					projectLink: "https://32beads.letsbug.in/",
-				},
-				{
-					name: "ERP Project",
-					img: images["../assets/payroll-1.png"].default,
-					description:
-						"This is android projects that helps small businesses with their attendance record and payments",
-					technologies: ["Java", "Android", "Sqlite"],
-					sourceCode:
-						"https://github.com/Aniket-git-hub/payrollSystem",
-					projectLink:
-						"https://github.com/Aniket-git-hub/payrollSystem",
-					technologies: ["SQL", "Sqlite", "Android", "Java"],
-				},
-				{
-					name: "Social Network",
-					description: "Social networking web application",
-					img: images["../assets/dashboard.png"].default,
-					projectLink:
-						"https://github.com/Aniket-git-hub/socialNetwork",
-					sourceCode:
-						"https://github.com/Aniket-git-hub/socialNetwork",
-					technologies: [
-						"Vue",
-						"Nodejs",
-						"MongoDB",
-						"Git",
-						"Expressjs",
-						"Heroku",
-						"Firebase",
-						"Tailwind",
-						"CSS",
-						"HTML",
-						"Javascript",
-					],
+					sourceCode: "https://github.com",
+					projectLink: "",
 				},
 			],
 		}

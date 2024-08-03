@@ -18,22 +18,22 @@
 						# Education and Certifications <br />
 
 						## Graduation <br />
-						- **Degree:** BBA. Computer Application <br />
-						- **Institution:** SPPU <br />
+						- **Degree:** Electronics Communication Engineering <br />
+						- **Institution:** KIET College <br />
 						- **Year:** 2023 <br />
-						- **CGPA:** 8.82 <br />
+						- **CGPA:** 6.92 <br />
 
 						## Intermediate (12th Grade) <br />
-						- **Board:** Maharashtra Board(HSC with IT) <br />
-						- **School:** Dr. D. Y. Patil Jr. College <br />
-						- **Year:** 2020 <br />
-						- **Percentage:** 71.2 <br />
+						- **Board:** BIEAP (HSC with IT) <br />
+						- **School:** Narayana Junior College <br />
+						- **Year:** 2019 <br />
+						- **CGPA:** 7.50 <br />
 
 						## High School (10th Grade) <br />
-						- **Board:** Maharashtra Board(SSC) <br />
-						- **School:** Master Mind Global School <br />
-						- **Year:** 2018 <br />
-						- **Percentage:** 76.5 <br />
+						- **Board:**BSEAP (SSC) <br />
+						- **School:** Dr.KKR’s Gowtham concept School <br />
+						- **Year:** 2017 <br />
+						- **CGPA:** 9.2 <br />
 
 						--- <br />
 					</p>
@@ -69,17 +69,17 @@
 						<li>
 							<p>
 								<span>Degree:</span>
-								<span>BBA. Computer Application</span>
+								<span>Electronics Communication Engineering</span>
 							</p>
 						</li>
 						<li>
-							<p><span>Institution:</span> <span>SPPU</span></p>
+							<p><span>Institution:</span> <span>KIET College</span></p>
 						</li>
 						<li>
 							<p><span>Year:</span> <span>2023</span></p>
 						</li>
 						<li>
-							<p><span>CGPA:</span> <span>8.82</span></p>
+							<p><span>CGPA:</span> <span>6.92</span></p>
 						</li>
 					</ul>
 					<h2
@@ -91,20 +91,20 @@
 						<li>
 							<p>
 								<span>Board:</span>
-								<span>Maharashtra Board(HSC with IT)</span>
+								<span>BIEAP (HSC)</span>
 							</p>
 						</li>
 						<li>
 							<p>
 								<span>School/Jr. College:</span>
-								<span> Dr. D. Y. Patil Jr. College</span>
+								<span> Narayana Junior College</span>
 							</p>
 						</li>
 						<li>
-							<p><span>Year:</span> <span>2020</span></p>
+							<p><span>Year:</span> <span>2019</span></p>
 						</li>
 						<li>
-							<p><span>Percentage:</span> <span>71.2</span></p>
+							<p><span>CGPA:</span> <span>7.50</span></p>
 						</li>
 					</ul>
 					<h2
@@ -116,20 +116,20 @@
 						<li>
 							<p>
 								<span>Board:</span>
-								<span>Maharashtra Board(SSC)</span>
+								<span>BSEAP (SSC)</span>
 							</p>
 						</li>
 						<li>
 							<p>
 								<span>School:</span>
-								<span> Master Mind Global English School</span>
+								<span>  Dr.KKR’s Gowtham concept School</span>
 							</p>
 						</li>
 						<li>
-							<p><span>Year:</span> <span>2018</span></p>
+							<p><span>Year:</span> <span>2019</span></p>
 						</li>
 						<li>
-							<p><span>Percentage:</span> <span>76.5</span></p>
+							<p><span>CGPA:</span> <span>9.2</span></p>
 						</li>
 					</ul>
 				</article>

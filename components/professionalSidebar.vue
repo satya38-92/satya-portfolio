@@ -54,11 +54,11 @@
 		</div>
 		<div class="flex px-4 py-2">
 			<Icon name="mdi:email" class="pr-2" size="24px" />
-			<a href="mailto:singhdharmvir81@gmail.com">me@letsbug.in</a>
+			<a href="mailto:satyanaryana18369@gmail.com">me@letsbug.in</a>
 		</div>
 		<div class="flex px-4 py-2">
 			<Icon name="mdi:phone" class="pr-2" size="24px" />
-			<a href="tel:+917559410568">+917559410568</a>
+			<a href="tel:+918790018369">+918790018369</a>
 		</div>
 	</section>
 </template>

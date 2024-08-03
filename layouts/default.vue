@@ -9,7 +9,7 @@
 				class="border-r border-border-color py-2 px-8 w-fit md:w-60 hover:text-white hover:bg-bg-hover-color hover:cursor-pointer"
 			>
 				<NuxtLink to="/">
-					<h1 class="text-white">aniket-singh</h1>
+					<h1 class="text-white">venkata-satya</h1>
 				</NuxtLink>
 			</div>
 
@@ -80,21 +80,21 @@
 				<li
 					class="py-2 px-6 border-r border-border-color hover:text-white hover:bg-bg-hover-color hover:cursor-pointer"
 				>
-					<a href="https://linkedin.com/in/aniket-singh-80371b201">
+					<a href="https://www.linkedin.com/in/vera-venkata-satyanarayana-pattigulla-a72a72243">
 						<Icon name="uil:linkedin" />
 					</a>
 				</li>
 				<li
 					class="py-2 px-6 border-r border-border-color hover:text-white hover:bg-bg-hover-color hover:cursor-pointer"
 				>
-					<a href="https://twitter.com/singhaniket06">
+					<a href="https://twitter.com/satya">
 						<Icon name="uil:twitter" />
 					</a>
 				</li>
 				<li
 					class="py-2 px-6 border-r border-border-color hover:text-white hover:bg-bg-hover-color hover:cursor-pointer"
 				>
-					<a href="https://instagram.com/aniket_letsbug/">
+					<a href="https://instagram.com/gana_n_joy/">
 						<Icon name="uil:instagram" />
 					</a>
 				</li>
@@ -102,9 +102,9 @@
 				<li
 					class="py-2 px-6 border-l border-border-color hover:text-white hover:bg-bg-hover-color hover:cursor-pointer"
 				>
-					<a href="https://github.com/Aniket-git-hub">
+					<a href="https://github.com/satyabub">
 						<span class="pr-2 hidden md:inline-block"
-							>@aniket-git-hub</span
+							>@satya-git-hub</span
 						>
 						<Icon name="uil:github" />
 					</a>
@@ -120,7 +120,6 @@ const navLinks = ref([
 	{ name: "_hello", to: "/" },
 	{ name: "_about-me", to: "/about" },
 	{ name: "_projects", to: "/projects" },
-	{ name: "_blog", to: "https://blog.letsbug.in", blank: true },
 ])
 const isOpen = ref(false)
 const route = useRoute()
